@@ -1,1 +1,2 @@
-# Differents uses cases of coinbase API
+# Uses cases - Coinbase
+Using the APIs of an exchange platform.
